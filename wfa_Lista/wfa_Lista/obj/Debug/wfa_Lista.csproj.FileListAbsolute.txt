@@ -1,0 +1,11 @@
+C:\Users\phfuj\source\repos\wfa_Lista\wfa_Lista\bin\Debug\wfa_Lista.exe.config
+C:\Users\phfuj\source\repos\wfa_Lista\wfa_Lista\bin\Debug\wfa_Lista.exe
+C:\Users\phfuj\source\repos\wfa_Lista\wfa_Lista\bin\Debug\wfa_Lista.pdb
+C:\Users\phfuj\source\repos\wfa_Lista\wfa_Lista\obj\Debug\wfa_Lista.csproj.AssemblyReference.cache
+C:\Users\phfuj\source\repos\wfa_Lista\wfa_Lista\obj\Debug\wfa_Lista.csproj.SuggestedBindingRedirects.cache
+C:\Users\phfuj\source\repos\wfa_Lista\wfa_Lista\obj\Debug\wfa_Lista.Form1.resources
+C:\Users\phfuj\source\repos\wfa_Lista\wfa_Lista\obj\Debug\wfa_Lista.Properties.Resources.resources
+C:\Users\phfuj\source\repos\wfa_Lista\wfa_Lista\obj\Debug\wfa_Lista.csproj.GenerateResource.cache
+C:\Users\phfuj\source\repos\wfa_Lista\wfa_Lista\obj\Debug\wfa_Lista.csproj.CoreCompileInputs.cache
+C:\Users\phfuj\source\repos\wfa_Lista\wfa_Lista\obj\Debug\wfa_Lista.exe
+C:\Users\phfuj\source\repos\wfa_Lista\wfa_Lista\obj\Debug\wfa_Lista.pdb

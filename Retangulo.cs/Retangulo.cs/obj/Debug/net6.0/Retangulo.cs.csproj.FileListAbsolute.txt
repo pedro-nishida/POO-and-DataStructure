@@ -1,0 +1,15 @@
+C:\Users\phfuj\source\repos\Retangulo.cs\Retangulo.cs\bin\Debug\net6.0\Retangulo.cs.exe
+C:\Users\phfuj\source\repos\Retangulo.cs\Retangulo.cs\bin\Debug\net6.0\Retangulo.cs.deps.json
+C:\Users\phfuj\source\repos\Retangulo.cs\Retangulo.cs\bin\Debug\net6.0\Retangulo.cs.runtimeconfig.json
+C:\Users\phfuj\source\repos\Retangulo.cs\Retangulo.cs\bin\Debug\net6.0\Retangulo.cs.dll
+C:\Users\phfuj\source\repos\Retangulo.cs\Retangulo.cs\bin\Debug\net6.0\Retangulo.cs.pdb
+C:\Users\phfuj\source\repos\Retangulo.cs\Retangulo.cs\obj\Debug\net6.0\Retangulo.cs.csproj.AssemblyReference.cache
+C:\Users\phfuj\source\repos\Retangulo.cs\Retangulo.cs\obj\Debug\net6.0\Retangulo.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phfuj\source\repos\Retangulo.cs\Retangulo.cs\obj\Debug\net6.0\Retangulo.cs.AssemblyInfoInputs.cache
+C:\Users\phfuj\source\repos\Retangulo.cs\Retangulo.cs\obj\Debug\net6.0\Retangulo.cs.AssemblyInfo.cs
+C:\Users\phfuj\source\repos\Retangulo.cs\Retangulo.cs\obj\Debug\net6.0\Retangulo.cs.csproj.CoreCompileInputs.cache
+C:\Users\phfuj\source\repos\Retangulo.cs\Retangulo.cs\obj\Debug\net6.0\Retangulo.cs.dll
+C:\Users\phfuj\source\repos\Retangulo.cs\Retangulo.cs\obj\Debug\net6.0\refint\Retangulo.cs.dll
+C:\Users\phfuj\source\repos\Retangulo.cs\Retangulo.cs\obj\Debug\net6.0\Retangulo.cs.pdb
+C:\Users\phfuj\source\repos\Retangulo.cs\Retangulo.cs\obj\Debug\net6.0\Retangulo.cs.genruntimeconfig.cache
+C:\Users\phfuj\source\repos\Retangulo.cs\Retangulo.cs\obj\Debug\net6.0\ref\Retangulo.cs.dll

@@ -1,0 +1,8 @@
+C:\Users\phfuj\source\repos\Vetores.cs\Vetores.cs\obj\Debug\Vetores.cs.csproj.AssemblyReference.cache
+C:\Users\phfuj\source\repos\Vetores.cs\Vetores.cs\obj\Debug\Vetores.cs.csproj.SuggestedBindingRedirects.cache
+C:\Users\phfuj\source\repos\Vetores.cs\Vetores.cs\obj\Debug\Vetores.cs.csproj.CoreCompileInputs.cache
+C:\Users\phfuj\source\repos\Vetores.cs\Vetores.cs\bin\Debug\Vetores.cs.exe.config
+C:\Users\phfuj\source\repos\Vetores.cs\Vetores.cs\bin\Debug\Vetores.cs.exe
+C:\Users\phfuj\source\repos\Vetores.cs\Vetores.cs\bin\Debug\Vetores.cs.pdb
+C:\Users\phfuj\source\repos\Vetores.cs\Vetores.cs\obj\Debug\Vetores.cs.exe
+C:\Users\phfuj\source\repos\Vetores.cs\Vetores.cs\obj\Debug\Vetores.cs.pdb

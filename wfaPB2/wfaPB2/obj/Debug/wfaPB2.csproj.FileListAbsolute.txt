@@ -1,0 +1,11 @@
+C:\Users\phfuj\source\repos\wfaPB2\wfaPB2\bin\Debug\wfaPB2.exe.config
+C:\Users\phfuj\source\repos\wfaPB2\wfaPB2\bin\Debug\wfaPB2.exe
+C:\Users\phfuj\source\repos\wfaPB2\wfaPB2\bin\Debug\wfaPB2.pdb
+C:\Users\phfuj\source\repos\wfaPB2\wfaPB2\obj\Debug\wfaPB2.csproj.AssemblyReference.cache
+C:\Users\phfuj\source\repos\wfaPB2\wfaPB2\obj\Debug\wfaPB2.csproj.SuggestedBindingRedirects.cache
+C:\Users\phfuj\source\repos\wfaPB2\wfaPB2\obj\Debug\wfaPB2.Form1.resources
+C:\Users\phfuj\source\repos\wfaPB2\wfaPB2\obj\Debug\wfaPB2.Properties.Resources.resources
+C:\Users\phfuj\source\repos\wfaPB2\wfaPB2\obj\Debug\wfaPB2.csproj.GenerateResource.cache
+C:\Users\phfuj\source\repos\wfaPB2\wfaPB2\obj\Debug\wfaPB2.csproj.CoreCompileInputs.cache
+C:\Users\phfuj\source\repos\wfaPB2\wfaPB2\obj\Debug\wfaPB2.exe
+C:\Users\phfuj\source\repos\wfaPB2\wfaPB2\obj\Debug\wfaPB2.pdb

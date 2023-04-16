@@ -1,0 +1,8 @@
+C:\Users\phfuj\source\repos\caPilhaDinamica\caPilhaDinamica\bin\Debug\caPilhaDinamica.exe.config
+C:\Users\phfuj\source\repos\caPilhaDinamica\caPilhaDinamica\bin\Debug\caPilhaDinamica.exe
+C:\Users\phfuj\source\repos\caPilhaDinamica\caPilhaDinamica\bin\Debug\caPilhaDinamica.pdb
+C:\Users\phfuj\source\repos\caPilhaDinamica\caPilhaDinamica\obj\Debug\caPilhaDinamica.csproj.AssemblyReference.cache
+C:\Users\phfuj\source\repos\caPilhaDinamica\caPilhaDinamica\obj\Debug\caPilhaDinamica.csproj.SuggestedBindingRedirects.cache
+C:\Users\phfuj\source\repos\caPilhaDinamica\caPilhaDinamica\obj\Debug\caPilhaDinamica.csproj.CoreCompileInputs.cache
+C:\Users\phfuj\source\repos\caPilhaDinamica\caPilhaDinamica\obj\Debug\caPilhaDinamica.exe
+C:\Users\phfuj\source\repos\caPilhaDinamica\caPilhaDinamica\obj\Debug\caPilhaDinamica.pdb

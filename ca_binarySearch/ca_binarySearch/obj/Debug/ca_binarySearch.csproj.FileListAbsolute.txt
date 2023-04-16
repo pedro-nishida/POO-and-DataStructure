@@ -1,0 +1,8 @@
+C:\Users\phfuj\source\repos\ca_binarySearch\ca_binarySearch\bin\Debug\ca_binarySearch.exe.config
+C:\Users\phfuj\source\repos\ca_binarySearch\ca_binarySearch\bin\Debug\ca_binarySearch.exe
+C:\Users\phfuj\source\repos\ca_binarySearch\ca_binarySearch\bin\Debug\ca_binarySearch.pdb
+C:\Users\phfuj\source\repos\ca_binarySearch\ca_binarySearch\obj\Debug\ca_binarySearch.csproj.AssemblyReference.cache
+C:\Users\phfuj\source\repos\ca_binarySearch\ca_binarySearch\obj\Debug\ca_binarySearch.csproj.SuggestedBindingRedirects.cache
+C:\Users\phfuj\source\repos\ca_binarySearch\ca_binarySearch\obj\Debug\ca_binarySearch.csproj.CoreCompileInputs.cache
+C:\Users\phfuj\source\repos\ca_binarySearch\ca_binarySearch\obj\Debug\ca_binarySearch.exe
+C:\Users\phfuj\source\repos\ca_binarySearch\ca_binarySearch\obj\Debug\ca_binarySearch.pdb

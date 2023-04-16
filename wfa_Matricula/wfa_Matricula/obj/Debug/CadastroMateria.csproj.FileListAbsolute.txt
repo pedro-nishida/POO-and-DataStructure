@@ -1,0 +1,11 @@
+C:\Users\phfuj\source\repos\wfa_Matricula\wfa_Matricula\obj\Debug\CadastroMateria.csproj.AssemblyReference.cache
+C:\Users\phfuj\source\repos\wfa_Matricula\wfa_Matricula\obj\Debug\CadastroMateria.csproj.SuggestedBindingRedirects.cache
+C:\Users\phfuj\source\repos\wfa_Matricula\wfa_Matricula\obj\Debug\wfa_CadastroMateria.Form1.resources
+C:\Users\phfuj\source\repos\wfa_Matricula\wfa_Matricula\obj\Debug\wfa_CadastroMateria.Properties.Resources.resources
+C:\Users\phfuj\source\repos\wfa_Matricula\wfa_Matricula\obj\Debug\CadastroMateria.csproj.GenerateResource.cache
+C:\Users\phfuj\source\repos\wfa_Matricula\wfa_Matricula\obj\Debug\CadastroMateria.csproj.CoreCompileInputs.cache
+C:\Users\phfuj\source\repos\wfa_Matricula\wfa_Matricula\bin\Debug\wfa_CadastroMateria.exe.config
+C:\Users\phfuj\source\repos\wfa_Matricula\wfa_Matricula\bin\Debug\wfa_CadastroMateria.exe
+C:\Users\phfuj\source\repos\wfa_Matricula\wfa_Matricula\bin\Debug\wfa_CadastroMateria.pdb
+C:\Users\phfuj\source\repos\wfa_Matricula\wfa_Matricula\obj\Debug\wfa_CadastroMateria.exe
+C:\Users\phfuj\source\repos\wfa_Matricula\wfa_Matricula\obj\Debug\wfa_CadastroMateria.pdb

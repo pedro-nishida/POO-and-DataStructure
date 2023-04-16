@@ -1,0 +1,10 @@
+C:\Users\Edgard\source\repos\wfaPessoaFJ\wfaPessoaFJ\bin\Debug\wfaPessoaFJ.exe.config
+C:\Users\Edgard\source\repos\wfaPessoaFJ\wfaPessoaFJ\bin\Debug\wfaPessoaFJ.exe
+C:\Users\Edgard\source\repos\wfaPessoaFJ\wfaPessoaFJ\bin\Debug\wfaPessoaFJ.pdb
+C:\Users\Edgard\source\repos\wfaPessoaFJ\wfaPessoaFJ\obj\Debug\wfaPessoaFJ.csprojAssemblyReference.cache
+C:\Users\Edgard\source\repos\wfaPessoaFJ\wfaPessoaFJ\obj\Debug\wfaPessoaFJ.Form1.resources
+C:\Users\Edgard\source\repos\wfaPessoaFJ\wfaPessoaFJ\obj\Debug\wfaPessoaFJ.Properties.Resources.resources
+C:\Users\Edgard\source\repos\wfaPessoaFJ\wfaPessoaFJ\obj\Debug\wfaPessoaFJ.csproj.GenerateResource.cache
+C:\Users\Edgard\source\repos\wfaPessoaFJ\wfaPessoaFJ\obj\Debug\wfaPessoaFJ.csproj.CoreCompileInputs.cache
+C:\Users\Edgard\source\repos\wfaPessoaFJ\wfaPessoaFJ\obj\Debug\wfaPessoaFJ.exe
+C:\Users\Edgard\source\repos\wfaPessoaFJ\wfaPessoaFJ\obj\Debug\wfaPessoaFJ.pdb

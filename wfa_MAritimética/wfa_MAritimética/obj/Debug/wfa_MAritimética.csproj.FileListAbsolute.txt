@@ -1,0 +1,11 @@
+C:\Users\phfuj\source\repos\wfa_MAritimética\wfa_MAritimética\obj\Debug\wfa_MAritimética.csproj.AssemblyReference.cache
+C:\Users\phfuj\source\repos\wfa_MAritimética\wfa_MAritimética\obj\Debug\wfa_MAritimética.csproj.SuggestedBindingRedirects.cache
+C:\Users\phfuj\source\repos\wfa_MAritimética\wfa_MAritimética\obj\Debug\wfa_MAritimética.Form1.resources
+C:\Users\phfuj\source\repos\wfa_MAritimética\wfa_MAritimética\obj\Debug\wfa_MAritimética.Properties.Resources.resources
+C:\Users\phfuj\source\repos\wfa_MAritimética\wfa_MAritimética\obj\Debug\wfa_MAritimética.csproj.GenerateResource.cache
+C:\Users\phfuj\source\repos\wfa_MAritimética\wfa_MAritimética\obj\Debug\wfa_MAritimética.csproj.CoreCompileInputs.cache
+C:\Users\phfuj\source\repos\wfa_MAritimética\wfa_MAritimética\bin\Debug\wfa_MAritimética.exe.config
+C:\Users\phfuj\source\repos\wfa_MAritimética\wfa_MAritimética\bin\Debug\wfa_MAritimética.exe
+C:\Users\phfuj\source\repos\wfa_MAritimética\wfa_MAritimética\bin\Debug\wfa_MAritimética.pdb
+C:\Users\phfuj\source\repos\wfa_MAritimética\wfa_MAritimética\obj\Debug\wfa_MAritimética.exe
+C:\Users\phfuj\source\repos\wfa_MAritimética\wfa_MAritimética\obj\Debug\wfa_MAritimética.pdb

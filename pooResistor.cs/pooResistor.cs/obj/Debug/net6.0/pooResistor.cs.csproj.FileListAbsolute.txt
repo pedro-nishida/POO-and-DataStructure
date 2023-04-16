@@ -1,0 +1,15 @@
+C:\Users\phfuj\source\repos\pooResistor.cs\pooResistor.cs\bin\Debug\net6.0\pooResistor.cs.exe
+C:\Users\phfuj\source\repos\pooResistor.cs\pooResistor.cs\bin\Debug\net6.0\pooResistor.cs.deps.json
+C:\Users\phfuj\source\repos\pooResistor.cs\pooResistor.cs\bin\Debug\net6.0\pooResistor.cs.runtimeconfig.json
+C:\Users\phfuj\source\repos\pooResistor.cs\pooResistor.cs\bin\Debug\net6.0\pooResistor.cs.dll
+C:\Users\phfuj\source\repos\pooResistor.cs\pooResistor.cs\bin\Debug\net6.0\pooResistor.cs.pdb
+C:\Users\phfuj\source\repos\pooResistor.cs\pooResistor.cs\obj\Debug\net6.0\pooResistor.cs.csproj.AssemblyReference.cache
+C:\Users\phfuj\source\repos\pooResistor.cs\pooResistor.cs\obj\Debug\net6.0\pooResistor.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phfuj\source\repos\pooResistor.cs\pooResistor.cs\obj\Debug\net6.0\pooResistor.cs.AssemblyInfoInputs.cache
+C:\Users\phfuj\source\repos\pooResistor.cs\pooResistor.cs\obj\Debug\net6.0\pooResistor.cs.AssemblyInfo.cs
+C:\Users\phfuj\source\repos\pooResistor.cs\pooResistor.cs\obj\Debug\net6.0\pooResistor.cs.csproj.CoreCompileInputs.cache
+C:\Users\phfuj\source\repos\pooResistor.cs\pooResistor.cs\obj\Debug\net6.0\pooResistor.cs.dll
+C:\Users\phfuj\source\repos\pooResistor.cs\pooResistor.cs\obj\Debug\net6.0\refint\pooResistor.cs.dll
+C:\Users\phfuj\source\repos\pooResistor.cs\pooResistor.cs\obj\Debug\net6.0\pooResistor.cs.pdb
+C:\Users\phfuj\source\repos\pooResistor.cs\pooResistor.cs\obj\Debug\net6.0\pooResistor.cs.genruntimeconfig.cache
+C:\Users\phfuj\source\repos\pooResistor.cs\pooResistor.cs\obj\Debug\net6.0\ref\pooResistor.cs.dll

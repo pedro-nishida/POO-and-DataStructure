@@ -1,0 +1,8 @@
+C:\Users\phfuj\source\repos\ca_empregado\ca_empregado\bin\Debug\ca_empregado.exe.config
+C:\Users\phfuj\source\repos\ca_empregado\ca_empregado\bin\Debug\ca_empregado.exe
+C:\Users\phfuj\source\repos\ca_empregado\ca_empregado\bin\Debug\ca_empregado.pdb
+C:\Users\phfuj\source\repos\ca_empregado\ca_empregado\obj\Debug\ca_empregado.csproj.AssemblyReference.cache
+C:\Users\phfuj\source\repos\ca_empregado\ca_empregado\obj\Debug\ca_empregado.csproj.SuggestedBindingRedirects.cache
+C:\Users\phfuj\source\repos\ca_empregado\ca_empregado\obj\Debug\ca_empregado.csproj.CoreCompileInputs.cache
+C:\Users\phfuj\source\repos\ca_empregado\ca_empregado\obj\Debug\ca_empregado.exe
+C:\Users\phfuj\source\repos\ca_empregado\ca_empregado\obj\Debug\ca_empregado.pdb

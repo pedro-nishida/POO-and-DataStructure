@@ -1,0 +1,11 @@
+C:\Users\phfuj\source\repos\wfa_ContaEspecial\wfa_ContaEspecial\obj\Debug\wfa_ContaEspecial.csproj.AssemblyReference.cache
+C:\Users\phfuj\source\repos\wfa_ContaEspecial\wfa_ContaEspecial\obj\Debug\wfa_ContaEspecial.csproj.SuggestedBindingRedirects.cache
+C:\Users\phfuj\source\repos\wfa_ContaEspecial\wfa_ContaEspecial\obj\Debug\wfa_ContaEspecial.Form1.resources
+C:\Users\phfuj\source\repos\wfa_ContaEspecial\wfa_ContaEspecial\obj\Debug\wfa_ContaEspecial.Properties.Resources.resources
+C:\Users\phfuj\source\repos\wfa_ContaEspecial\wfa_ContaEspecial\obj\Debug\wfa_ContaEspecial.csproj.GenerateResource.cache
+C:\Users\phfuj\source\repos\wfa_ContaEspecial\wfa_ContaEspecial\obj\Debug\wfa_ContaEspecial.csproj.CoreCompileInputs.cache
+C:\Users\phfuj\source\repos\wfa_ContaEspecial\wfa_ContaEspecial\bin\Debug\wfa_ContaEspecial.exe.config
+C:\Users\phfuj\source\repos\wfa_ContaEspecial\wfa_ContaEspecial\bin\Debug\wfa_ContaEspecial.exe
+C:\Users\phfuj\source\repos\wfa_ContaEspecial\wfa_ContaEspecial\bin\Debug\wfa_ContaEspecial.pdb
+C:\Users\phfuj\source\repos\wfa_ContaEspecial\wfa_ContaEspecial\obj\Debug\wfa_ContaEspecial.exe
+C:\Users\phfuj\source\repos\wfa_ContaEspecial\wfa_ContaEspecial\obj\Debug\wfa_ContaEspecial.pdb

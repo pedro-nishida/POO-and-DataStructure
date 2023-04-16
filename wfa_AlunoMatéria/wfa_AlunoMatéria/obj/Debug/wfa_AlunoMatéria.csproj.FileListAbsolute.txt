@@ -1,0 +1,11 @@
+C:\Users\phfuj\source\repos\wfa_AlunoMatéria\wfa_AlunoMatéria\bin\Debug\wfa_AlunoMatéria.exe.config
+C:\Users\phfuj\source\repos\wfa_AlunoMatéria\wfa_AlunoMatéria\bin\Debug\wfa_AlunoMatéria.exe
+C:\Users\phfuj\source\repos\wfa_AlunoMatéria\wfa_AlunoMatéria\bin\Debug\wfa_AlunoMatéria.pdb
+C:\Users\phfuj\source\repos\wfa_AlunoMatéria\wfa_AlunoMatéria\obj\Debug\wfa_AlunoMatéria.csproj.AssemblyReference.cache
+C:\Users\phfuj\source\repos\wfa_AlunoMatéria\wfa_AlunoMatéria\obj\Debug\wfa_AlunoMatéria.csproj.SuggestedBindingRedirects.cache
+C:\Users\phfuj\source\repos\wfa_AlunoMatéria\wfa_AlunoMatéria\obj\Debug\wfa_AlunoMatéria.Form1.resources
+C:\Users\phfuj\source\repos\wfa_AlunoMatéria\wfa_AlunoMatéria\obj\Debug\wfa_AlunoMatéria.Properties.Resources.resources
+C:\Users\phfuj\source\repos\wfa_AlunoMatéria\wfa_AlunoMatéria\obj\Debug\wfa_AlunoMatéria.csproj.GenerateResource.cache
+C:\Users\phfuj\source\repos\wfa_AlunoMatéria\wfa_AlunoMatéria\obj\Debug\wfa_AlunoMatéria.csproj.CoreCompileInputs.cache
+C:\Users\phfuj\source\repos\wfa_AlunoMatéria\wfa_AlunoMatéria\obj\Debug\wfa_AlunoMatéria.exe
+C:\Users\phfuj\source\repos\wfa_AlunoMatéria\wfa_AlunoMatéria\obj\Debug\wfa_AlunoMatéria.pdb
