@@ -15,27 +15,23 @@ namespace wfaPB2
         public Form1()
         {
             InitializeComponent();
-            pictureBox1.Image = Properties.Resources.branco;
+            picBoxFIGURAS.Image = Properties.Resources.branco;
         }
 
-        private void radioButton_retangulo_CheckedChanged(object sender, EventArgs e)
+        private void rbCirculo_CheckedChanged(object sender, EventArgs e)
         {
-            pictureBox1.Image = Properties.Resources.retangulo;
+            picBoxFIGURAS.Image = Properties.Resources.circulo;
         }
 
-        private void radioButton_Circulo_CheckedChanged(object sender, EventArgs e)
+        private void rbRetangulo_CheckedChanged(object sender, EventArgs e)
         {
-            pictureBox1.Image = Properties.Resources.circulo;
+            picBoxFIGURAS.Image = Properties.Resources.retangulo;
         }
 
-        private void radioButton_Triangulo_CheckedChanged(object sender, EventArgs e)
+        private void rbTrapezio_CheckedChanged(object sender, EventArgs e)
         {
-            pictureBox1.Image= Properties.Resources.triangulo;
-        }
+            picBoxFIGURAS.Image = Properties.Resources.trapezio;
 
-        private void radioButton_Quadrado_CheckedChanged(object sender, EventArgs e)
-        {
-            pictureBox1.Image = Properties.Resources.quadrado;
         }
     }
 }

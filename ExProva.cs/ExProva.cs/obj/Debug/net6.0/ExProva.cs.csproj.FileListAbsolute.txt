@@ -1,0 +1,5 @@
+C:\Users\phfuj\source\repos\ExProva.cs\ExProva.cs\obj\Debug\net6.0\ExProva.cs.csproj.AssemblyReference.cache
+C:\Users\phfuj\source\repos\ExProva.cs\ExProva.cs\obj\Debug\net6.0\ExProva.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phfuj\source\repos\ExProva.cs\ExProva.cs\obj\Debug\net6.0\ExProva.cs.AssemblyInfoInputs.cache
+C:\Users\phfuj\source\repos\ExProva.cs\ExProva.cs\obj\Debug\net6.0\ExProva.cs.AssemblyInfo.cs
+C:\Users\phfuj\source\repos\ExProva.cs\ExProva.cs\obj\Debug\net6.0\ExProva.cs.csproj.CoreCompileInputs.cache

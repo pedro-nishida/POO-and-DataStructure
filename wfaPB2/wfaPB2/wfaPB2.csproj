@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{85B534CB-56CC-4E49-8573-EB5C0FB77D0B}</ProjectGuid>
+    <ProjectGuid>{3C854EE4-C477-4233-82EA-825537D1CD4D}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <RootNamespace>wfaPB2</RootNamespace>
     <AssemblyName>wfaPB2</AssemblyName>
@@ -81,19 +81,16 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\triangulo.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\retangulo.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\quadrado.png" />
+    <None Include="Resources\branco.png" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\circulo.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\branco.png" />
+    <None Include="Resources\retangulo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\trapezio.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

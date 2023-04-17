@@ -34,7 +34,7 @@ namespace Vetores.cs
             Console.WriteLine("Input do Teclado");
 
             Console.WriteLine("Entre o valor da abscissa: ");
-            coordenada_x = Convert.ToDouble( 
+            coordenada_x = Convert.ToDouble(
                 Console.ReadLine()
                 );
 
@@ -51,7 +51,8 @@ namespace Vetores.cs
 
         public Vetor2D SomaVetorial(Vetor2D vetor)
         {
-            return (coordenada_x + vetor.coordenada_x, coordenada_y + vetor.coordenada_y);
+            Vetor2D soma = new Vetor2D(coordenada_x + vetor.coordenada_x, coordenada_y + vetor.coordenada_y);
+            return soma;
         }
     } // FIM DA CLASSE VETORE 2D
 }

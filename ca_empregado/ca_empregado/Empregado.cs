@@ -4,32 +4,35 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ca_empregado
-{
-    internal class Empregado
+namespace ca_empregado 
+{  
+    class Empregado
     {
-        //atributos
+        // atributos
         protected string nome;
         protected string cpf;
 
-        public string Nome { get => nome; set => nome = value; }
-        public string Cpf { get => cpf; set => cpf = value; }
-
-        //métodos
-        public Empregado() // default - aridade 0 
+        
+        // métodos
+        public Empregado()
         {
+
         }
 
-        public Empregado(string _nome, string _cpf) 
+        public Empregado(string  _nome, string _cpf)
         {
             nome = _nome;
             cpf = _cpf;
         }
-        
-        public virtual double salario_liquido()
+
+        // getters & setters
+        public string Nome { get => nome; set => nome = value; }
+        public string Cpf { get => cpf; set => cpf = value; }
+
+        public virtual double sal_liquido()
         {
             return 1000.00;
         }
 
-    } // fim da lista
+    } // fim da classe Empregado
 }

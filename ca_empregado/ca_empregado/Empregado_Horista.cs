@@ -29,7 +29,7 @@ namespace ca_empregado
             desconto_inss = _desconto_inss;
         }
 
-        public override double salario_liquido()
+        public double salario_liquido()
         {
             double salario_liquido;
             double salario_bruto = Preco_hora * Numero_horas;

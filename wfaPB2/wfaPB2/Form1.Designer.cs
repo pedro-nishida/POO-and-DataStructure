@@ -28,85 +28,68 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.radioButton_Circulo = new System.Windows.Forms.RadioButton();
-            this.pictureBox1 = new System.Windows.Forms.PictureBox();
-            this.radioButton_retangulo = new System.Windows.Forms.RadioButton();
-            this.radioButton_Triangulo = new System.Windows.Forms.RadioButton();
-            this.radioButton_Quadrado = new System.Windows.Forms.RadioButton();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
+            this.rbCirculo = new System.Windows.Forms.RadioButton();
+            this.rbRetangulo = new System.Windows.Forms.RadioButton();
+            this.picBoxFIGURAS = new System.Windows.Forms.PictureBox();
+            this.rbTrapezio = new System.Windows.Forms.RadioButton();
+            ((System.ComponentModel.ISupportInitialize)(this.picBoxFIGURAS)).BeginInit();
             this.SuspendLayout();
             // 
-            // radioButton_Circulo
+            // rbCirculo
             // 
-            this.radioButton_Circulo.AutoSize = true;
-            this.radioButton_Circulo.Location = new System.Drawing.Point(348, 61);
-            this.radioButton_Circulo.Name = "radioButton_Circulo";
-            this.radioButton_Circulo.Size = new System.Drawing.Size(57, 17);
-            this.radioButton_Circulo.TabIndex = 0;
-            this.radioButton_Circulo.TabStop = true;
-            this.radioButton_Circulo.Text = "Circulo";
-            this.radioButton_Circulo.UseVisualStyleBackColor = true;
-            this.radioButton_Circulo.CheckedChanged += new System.EventHandler(this.radioButton_Circulo_CheckedChanged);
+            this.rbCirculo.AutoSize = true;
+            this.rbCirculo.Location = new System.Drawing.Point(533, 67);
+            this.rbCirculo.Name = "rbCirculo";
+            this.rbCirculo.Size = new System.Drawing.Size(110, 29);
+            this.rbCirculo.TabIndex = 1;
+            this.rbCirculo.Text = "Circulo";
+            this.rbCirculo.UseVisualStyleBackColor = true;
+            this.rbCirculo.CheckedChanged += new System.EventHandler(this.rbCirculo_CheckedChanged);
             // 
-            // pictureBox1
+            // rbRetangulo
             // 
-            this.pictureBox1.Image = global::wfaPB2.Properties.Resources.branco;
-            this.pictureBox1.Location = new System.Drawing.Point(39, 46);
-            this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(260, 260);
-            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox1.TabIndex = 1;
-            this.pictureBox1.TabStop = false;
+            this.rbRetangulo.AutoSize = true;
+            this.rbRetangulo.Location = new System.Drawing.Point(533, 146);
+            this.rbRetangulo.Name = "rbRetangulo";
+            this.rbRetangulo.Size = new System.Drawing.Size(141, 29);
+            this.rbRetangulo.TabIndex = 2;
+            this.rbRetangulo.Text = "Retangulo";
+            this.rbRetangulo.UseVisualStyleBackColor = true;
+            this.rbRetangulo.CheckedChanged += new System.EventHandler(this.rbRetangulo_CheckedChanged);
             // 
-            // radioButton_retangulo
+            // picBoxFIGURAS
             // 
-            this.radioButton_retangulo.AutoSize = true;
-            this.radioButton_retangulo.Location = new System.Drawing.Point(349, 107);
-            this.radioButton_retangulo.Name = "radioButton_retangulo";
-            this.radioButton_retangulo.Size = new System.Drawing.Size(74, 17);
-            this.radioButton_retangulo.TabIndex = 2;
-            this.radioButton_retangulo.TabStop = true;
-            this.radioButton_retangulo.Text = "Retangulo";
-            this.radioButton_retangulo.UseVisualStyleBackColor = true;
-            this.radioButton_retangulo.CheckedChanged += new System.EventHandler(this.radioButton_retangulo_CheckedChanged);
+            this.picBoxFIGURAS.Image = global::wfaPB2.Properties.Resources.trapezio;
+            this.picBoxFIGURAS.Location = new System.Drawing.Point(69, 31);
+            this.picBoxFIGURAS.Name = "picBoxFIGURAS";
+            this.picBoxFIGURAS.Size = new System.Drawing.Size(403, 317);
+            this.picBoxFIGURAS.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.picBoxFIGURAS.TabIndex = 0;
+            this.picBoxFIGURAS.TabStop = false;
             // 
-            // radioButton_Triangulo
+            // rbTrapezio
             // 
-            this.radioButton_Triangulo.AutoSize = true;
-            this.radioButton_Triangulo.Location = new System.Drawing.Point(348, 191);
-            this.radioButton_Triangulo.Name = "radioButton_Triangulo";
-            this.radioButton_Triangulo.Size = new System.Drawing.Size(69, 17);
-            this.radioButton_Triangulo.TabIndex = 3;
-            this.radioButton_Triangulo.TabStop = true;
-            this.radioButton_Triangulo.Text = "Triangulo";
-            this.radioButton_Triangulo.UseVisualStyleBackColor = true;
-            this.radioButton_Triangulo.CheckedChanged += new System.EventHandler(this.radioButton_Triangulo_CheckedChanged);
-            // 
-            // radioButton_Quadrado
-            // 
-            this.radioButton_Quadrado.AutoSize = true;
-            this.radioButton_Quadrado.Location = new System.Drawing.Point(348, 148);
-            this.radioButton_Quadrado.Name = "radioButton_Quadrado";
-            this.radioButton_Quadrado.Size = new System.Drawing.Size(72, 17);
-            this.radioButton_Quadrado.TabIndex = 4;
-            this.radioButton_Quadrado.TabStop = true;
-            this.radioButton_Quadrado.Text = "Quadrado";
-            this.radioButton_Quadrado.UseVisualStyleBackColor = true;
-            this.radioButton_Quadrado.CheckedChanged += new System.EventHandler(this.radioButton_Quadrado_CheckedChanged);
+            this.rbTrapezio.AutoSize = true;
+            this.rbTrapezio.Location = new System.Drawing.Point(533, 234);
+            this.rbTrapezio.Name = "rbTrapezio";
+            this.rbTrapezio.Size = new System.Drawing.Size(127, 29);
+            this.rbTrapezio.TabIndex = 3;
+            this.rbTrapezio.Text = "Trapézio";
+            this.rbTrapezio.UseVisualStyleBackColor = true;
+            this.rbTrapezio.CheckedChanged += new System.EventHandler(this.rbTrapezio_CheckedChanged);
             // 
             // Form1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(12F, 25F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Controls.Add(this.radioButton_Quadrado);
-            this.Controls.Add(this.radioButton_Triangulo);
-            this.Controls.Add(this.radioButton_retangulo);
-            this.Controls.Add(this.pictureBox1);
-            this.Controls.Add(this.radioButton_Circulo);
+            this.ClientSize = new System.Drawing.Size(1150, 762);
+            this.Controls.Add(this.rbTrapezio);
+            this.Controls.Add(this.rbRetangulo);
+            this.Controls.Add(this.rbCirculo);
+            this.Controls.Add(this.picBoxFIGURAS);
             this.Name = "Form1";
             this.Text = "Form1";
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.picBoxFIGURAS)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -114,11 +97,10 @@
 
         #endregion
 
-        private System.Windows.Forms.RadioButton radioButton_Circulo;
-        private System.Windows.Forms.PictureBox pictureBox1;
-        private System.Windows.Forms.RadioButton radioButton_retangulo;
-        private System.Windows.Forms.RadioButton radioButton_Triangulo;
-        private System.Windows.Forms.RadioButton radioButton_Quadrado;
+        private System.Windows.Forms.PictureBox picBoxFIGURAS;
+        private System.Windows.Forms.RadioButton rbCirculo;
+        private System.Windows.Forms.RadioButton rbRetangulo;
+        private System.Windows.Forms.RadioButton rbTrapezio;
     }
 }
 

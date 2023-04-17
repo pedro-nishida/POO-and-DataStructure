@@ -83,16 +83,6 @@ namespace wfaPB2.Properties {
         /// <summary>
         ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap quadrado {
-            get {
-                object obj = ResourceManager.GetObject("quadrado", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
-        /// </summary>
         internal static System.Drawing.Bitmap retangulo {
             get {
                 object obj = ResourceManager.GetObject("retangulo", resourceCulture);
@@ -103,9 +93,9 @@ namespace wfaPB2.Properties {
         /// <summary>
         ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap triangulo {
+        internal static System.Drawing.Bitmap trapezio {
             get {
-                object obj = ResourceManager.GetObject("triangulo", resourceCulture);
+                object obj = ResourceManager.GetObject("trapezio", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

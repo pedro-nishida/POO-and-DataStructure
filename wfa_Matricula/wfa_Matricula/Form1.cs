@@ -47,5 +47,10 @@ namespace wfa_CadastroMateria
             
             txb_relatorio.Text = relatorio;
         }
+
+        private void txb_relatorio_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

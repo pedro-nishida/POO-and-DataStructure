@@ -98,6 +98,7 @@
             this.txb_relatorio.Name = "txb_relatorio";
             this.txb_relatorio.Size = new System.Drawing.Size(486, 168);
             this.txb_relatorio.TabIndex = 7;
+            this.txb_relatorio.TextChanged += new System.EventHandler(this.txb_relatorio_TextChanged);
             // 
             // Form1
             // 
