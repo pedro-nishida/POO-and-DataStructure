@@ -1,0 +1,3 @@
+C:\Users\phfuj\source\repos\ca_execicio3\ca_execicio3\obj\Debug\ca_execicio3.csproj.AssemblyReference.cache
+C:\Users\phfuj\source\repos\ca_execicio3\ca_execicio3\obj\Debug\ca_execicio3.csproj.SuggestedBindingRedirects.cache
+C:\Users\phfuj\source\repos\ca_execicio3\ca_execicio3\obj\Debug\ca_execicio3.csproj.CoreCompileInputs.cache

@@ -40,6 +40,11 @@
             this.txb_Placa = new System.Windows.Forms.TextBox();
             this.txb_QntAssento = new System.Windows.Forms.TextBox();
             this.txb_AnoVeiculo = new System.Windows.Forms.TextBox();
+            this.cH_Placa = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
+            this.cH_Ano = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
+            this.cH_Assentos = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
+            this.cH_Eixos = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
+            this.cH_Diaria = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
             ((System.ComponentModel.ISupportInitialize)(this.pb_Veiculo)).BeginInit();
             this.SuspendLayout();
             // 
@@ -105,6 +110,12 @@
             // 
             // listView1
             // 
+            this.listView1.Columns.AddRange(new System.Windows.Forms.ColumnHeader[] {
+            this.cH_Placa,
+            this.cH_Ano,
+            this.cH_Assentos,
+            this.cH_Eixos,
+            this.cH_Diaria});
             this.listView1.HideSelection = false;
             this.listView1.Location = new System.Drawing.Point(33, 246);
             this.listView1.Name = "listView1";
@@ -153,6 +164,26 @@
             this.txb_AnoVeiculo.Size = new System.Drawing.Size(100, 20);
             this.txb_AnoVeiculo.TabIndex = 11;
             // 
+            // cH_Placa
+            // 
+            this.cH_Placa.Text = "Placa";
+            // 
+            // cH_Ano
+            // 
+            this.cH_Ano.Text = "Ano";
+            // 
+            // cH_Assentos
+            // 
+            this.cH_Assentos.Text = "Assentos";
+            // 
+            // cH_Eixos
+            // 
+            this.cH_Eixos.Text = "Eixos";
+            // 
+            // cH_Diaria
+            // 
+            this.cH_Diaria.Text = "Diaria";
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -192,6 +223,11 @@
         private System.Windows.Forms.TextBox txb_Placa;
         private System.Windows.Forms.TextBox txb_QntAssento;
         private System.Windows.Forms.TextBox txb_AnoVeiculo;
+        private System.Windows.Forms.ColumnHeader cH_Placa;
+        private System.Windows.Forms.ColumnHeader cH_Ano;
+        private System.Windows.Forms.ColumnHeader cH_Assentos;
+        private System.Windows.Forms.ColumnHeader cH_Eixos;
+        private System.Windows.Forms.ColumnHeader cH_Diaria;
     }
 }
 

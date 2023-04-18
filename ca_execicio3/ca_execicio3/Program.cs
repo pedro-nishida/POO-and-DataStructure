@@ -10,6 +10,7 @@ namespace ca_execicio3
     {
         static void Main(string[] args)
         {
+            Lista<double> lista
         }
     }
 }

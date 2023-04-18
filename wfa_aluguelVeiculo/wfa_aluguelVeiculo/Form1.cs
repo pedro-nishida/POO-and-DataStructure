@@ -18,6 +18,11 @@ namespace wfa_aluguelVeiculo
         public Form1()
         {
             InitializeComponent();
+            listView1.Columns.Add("Placa", 128);
+            listView1.Columns.Add("Ano", 128);
+            listView1.Columns.Add("Assentos", 128);
+            listView1.Columns.Add("Eixos", 128);
+            listView1.Columns.Add("Diária", 128);
         }
 
         private void rb_Onibus_CheckedChanged(object sender, EventArgs e)
@@ -35,21 +40,12 @@ namespace wfa_aluguelVeiculo
         private void button_Cadastrar_Click(object sender, EventArgs e)
         {
             //verifica se txb_Placa, txb_AnoVeiculo, txb_QntAssento estão preenchidos então faz mensagem de alerta para prencher o item
-            if (txb_Placa.Text == "")
-            {
-                MessageBox.Show("Você deve prencher o campo: Placa!");
-            }
-            else if (txb_AnoVeiculo.Text == "")
-            {
-                MessageBox.Show("Você deve prencher o camopo: Ano!");
-            }
-            else if (txb_QntAssento.Text == "")
-            {
-                MessageBox.Show("Você deve prencher o campo: Qnt Assento");
-            }
-
             //se botão rb_Onibus estiver selecionado
-            if (rb_Onibus.Checked)
+            if (txb_AnoVeiculo == null || txb_Placa == null || txb_QntAssento == null) 
+            {
+                MessageBox.Show("Você deve prencher todos os campos!");
+            }
+            else if (rb_Onibus.Checked)
             {
                 //cria objeto Onibus
                 Onibus onibus = new Onibus(txb_Placa.Text, Convert.ToInt32(txb_AnoVeiculo.Text), Convert.ToInt32(txb_QntAssento.Text));
@@ -91,14 +87,23 @@ namespace wfa_aluguelVeiculo
                 linha[4] = veiculo.Aluguel().ToString();
                 //adiciona o array na listview
                 listView1.Items.Add(new ListViewItem(linha));
+
+                //display cada arrray da linha respectivamente em cH_placa, cH_ano, ch_assento, ch_eixo, ch_diaria
+                cH_Placa.Text = linha[0];
+                cH_Ano.Text = linha[1];
+                cH_Assentos.Text = linha[2];
+                cH_Eixos.Text = linha[3];
+                cH_Diaria.Text = linha[4];
+
             }
         }
 
         private void button_Limpar_Click(object sender, EventArgs e)
         {
             //limprara todos os dados da listview e da lista de veículos
-            listView1.Items.Clear();
-            listaVeiculos.Clear();
+            txb_AnoVeiculo.Clear();
+            txb_Placa.Clear();
+            txb_QntAssento.Clear();
 
         }
     }
