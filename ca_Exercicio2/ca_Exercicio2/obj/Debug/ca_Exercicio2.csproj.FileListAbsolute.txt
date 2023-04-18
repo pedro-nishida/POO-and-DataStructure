@@ -1,0 +1,8 @@
+C:\Users\phfuj\source\repos\ca_Exercicio2\ca_Exercicio2\bin\Debug\ca_Exercicio2.exe.config
+C:\Users\phfuj\source\repos\ca_Exercicio2\ca_Exercicio2\bin\Debug\ca_Exercicio2.exe
+C:\Users\phfuj\source\repos\ca_Exercicio2\ca_Exercicio2\bin\Debug\ca_Exercicio2.pdb
+C:\Users\phfuj\source\repos\ca_Exercicio2\ca_Exercicio2\obj\Debug\ca_Exercicio2.csproj.AssemblyReference.cache
+C:\Users\phfuj\source\repos\ca_Exercicio2\ca_Exercicio2\obj\Debug\ca_Exercicio2.csproj.SuggestedBindingRedirects.cache
+C:\Users\phfuj\source\repos\ca_Exercicio2\ca_Exercicio2\obj\Debug\ca_Exercicio2.csproj.CoreCompileInputs.cache
+C:\Users\phfuj\source\repos\ca_Exercicio2\ca_Exercicio2\obj\Debug\ca_Exercicio2.exe
+C:\Users\phfuj\source\repos\ca_Exercicio2\ca_Exercicio2\obj\Debug\ca_Exercicio2.pdb
