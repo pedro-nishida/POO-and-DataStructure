@@ -8,17 +8,28 @@ namespace ca_execicio3
 {
     internal class NoLista<TAD>
     { 
-        public NoLista(NoLista<TAD> previo, TAD info, NoLista<TAD> next)
+        public NoLista(NoLista<TAD> previo, TAD info, NoLista<TAD> next, NoLista<TAD> previo, TAD info, NoLista<TAD> next)
         {
+            Previo = previo;
+            Info = info;
+            Next = next;
             Previo = previo;
             Info = info;
             Next = next;
         }
 
-
+        //construtor
         public NoLista()
         {
 
+        }
+        
+        //construtor parametrizado
+        public NoLista(NoLista<TAD> previo, TAD info, NoLista<TAD> next)
+        {
+            Previo = previo;
+            Info = info;
+            Next = next;
         }
 
         //getters
@@ -27,7 +38,7 @@ namespace ca_execicio3
             return previo;
         }
 
-        //setters]
+        //setters
         public void setPrevio(NoLista<TAD> previo)
         {
             this.previo = previo;
