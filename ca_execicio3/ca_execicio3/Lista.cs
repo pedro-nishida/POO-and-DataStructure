@@ -20,7 +20,13 @@ namespace ca_execicio3
         }
 
         //função insere no inicio
-        public void insereInicio(TAD info)
+
+        public void insere()
+        {
+
+        }
+        
+        public void insere(TAD info)
         {
             NoLista<TAD> novo = new NoLista<TAD>(null, info, inicio);
             if (estaVazia())
@@ -35,10 +41,13 @@ namespace ca_execicio3
         }
 
         //função remove do inicio
-        public TAD removeInicio()
+        public void remove()
         {
-            TAD info = inicio.getInfo();
-            inicio = inicio.getNext();
+            if (estaVazia())
+            {
+                throw new Exception("Lista vazia");
+            }
+            inicio = inicio.Next;
             if (inicio == null)
             {
                 fim = null;
@@ -47,15 +56,11 @@ namespace ca_execicio3
             {
                 inicio.setPrevio(null);
             }
-            return info;
-        }
-
-        //getters
-        public NoLista<TAD> getInicio()
-        {
-            return inicio;
         }
         
+        //função retorna o valor em dada posição
+
+
         //setters
         public void setInicio(NoLista<TAD> inicio)
         {
@@ -71,5 +76,8 @@ namespace ca_execicio3
         //atributos
         private NoLista<TAD> inicio;
         private NoLista<TAD> fim;
+
+        internal NoLista<TAD> Inicio { get => inicio; set => inicio = value; }
+        internal NoLista<TAD> Fim { get => fim; set => fim = value; }
     }
 }

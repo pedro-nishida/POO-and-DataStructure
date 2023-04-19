@@ -18,38 +18,41 @@ namespace wfa_aluguelVeiculo
         public Form1()
         {
             InitializeComponent();
-            listView1.Columns.Add("Placa", 128);
-            listView1.Columns.Add("Ano", 128);
-            listView1.Columns.Add("Assentos", 128);
-            listView1.Columns.Add("Eixos", 128);
-            listView1.Columns.Add("Diária", 128);
+            listView1.Columns.Add("Placa", 100);
+            listView1.Columns.Add("Ano", 100);
+            listView1.Columns.Add("Assentos", 100);
+            listView1.Columns.Add("Eixos", 100);
+            listView1.Columns.Add("Diária", 100);
         }
 
         private void rb_Onibus_CheckedChanged(object sender, EventArgs e)
         {
             //troca a imagem a partir do caminho relativo de "C:\Users\phfuj\source\repos\wfa_aluguelVeiculo\wfa_aluguelVeiculo\Caminhao.png"
             pb_Veiculo.Image = Properties.Resources.Onibus;
+            label_AssentoOuEixo.Text = "Qnt Assentos";
         }
 
         private void rb_Caminhao_CheckedChanged(object sender, EventArgs e)
         {
             //troca a imagem a partir do caminho relativo de "C:\Users\phfuj\source\repos\wfa_aluguelVeiculo\wfa_aluguelVeiculo\Caminhao.png"
             pb_Veiculo.Image = Properties.Resources.Caminhao;
+            label_AssentoOuEixo.Text = "Eixos";
         }
 
         private void button_Cadastrar_Click(object sender, EventArgs e)
         {
             //verifica se txb_Placa, txb_AnoVeiculo, txb_QntAssento estão preenchidos então faz mensagem de alerta para prencher o item
             //se botão rb_Onibus estiver selecionado
-            if (txb_AnoVeiculo == null || txb_Placa == null || txb_QntAssento == null) 
+            if (txb_AnoVeiculo == null || mTxb_Placa == null || txb_QntAssento == null) 
             {
                 MessageBox.Show("Você deve prencher todos os campos!");
             }
+
             else if (rb_Onibus.Checked)
             {
                 //cria objeto Onibus
-                Onibus onibus = new Onibus(txb_Placa.Text, Convert.ToInt32(txb_AnoVeiculo.Text), Convert.ToInt32(txb_QntAssento.Text));
-
+                Onibus onibus = new Onibus(mTxb_Placa.Text, Convert.ToInt32(txb_AnoVeiculo.Text), Convert.ToInt32(txb_QntAssento.Text));
+                
                 //adiciona objeto na lista
                 listaVeiculos.Add(onibus);
 
@@ -58,7 +61,9 @@ namespace wfa_aluguelVeiculo
             else if (rb_Caminhao.Checked)
             {
                 //cria objeto Caminhao
-                Caminhao caminhao = new Caminhao(txb_Placa.Text, Convert.ToInt32(txb_AnoVeiculo.Text), Convert.ToInt32(txb_QntAssento.Text));
+                Caminhao caminhao = new Caminhao(mTxb_Placa.Text, Convert.ToInt32(txb_AnoVeiculo.Text), Convert.ToInt32(txb_QntAssento.Text));
+
+
                 //adiciona objeto na lista
                 listaVeiculos.Add(caminhao);
             }
@@ -85,15 +90,8 @@ namespace wfa_aluguelVeiculo
                 }
 
                 linha[4] = veiculo.Aluguel().ToString();
-                //adiciona o array na listview
+                //ATUALIZAR LISTVIEW
                 listView1.Items.Add(new ListViewItem(linha));
-
-                //display cada arrray da linha respectivamente em cH_placa, cH_ano, ch_assento, ch_eixo, ch_diaria
-                cH_Placa.Text = linha[0];
-                cH_Ano.Text = linha[1];
-                cH_Assentos.Text = linha[2];
-                cH_Eixos.Text = linha[3];
-                cH_Diaria.Text = linha[4];
 
             }
         }
@@ -102,9 +100,10 @@ namespace wfa_aluguelVeiculo
         {
             //limprara todos os dados da listview e da lista de veículos
             txb_AnoVeiculo.Clear();
-            txb_Placa.Clear();
+            mTxb_Placa.Clear();
             txb_QntAssento.Clear();
 
         }
+
     }
 }

@@ -37,7 +37,7 @@ namespace wfa_aluguelVeiculo
 
             //variável que consulta o ano atual do sistema
             int anoAtual = int.Parse(DateTime.Now.Year.ToString());
-
+            Console.WriteLine(anoAtual);
             double diaria = (30 * qtdAssentos) - (anoAtual - AnoVeiculo) * 70;
             return diaria;
         }
