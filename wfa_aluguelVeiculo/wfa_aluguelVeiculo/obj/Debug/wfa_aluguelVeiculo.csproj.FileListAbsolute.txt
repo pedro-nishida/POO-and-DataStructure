@@ -1,0 +1,11 @@
+C:\Users\phfuj\source\repos\wfa_aluguelVeiculo\wfa_aluguelVeiculo\obj\Debug\wfa_aluguelVeiculo.csproj.AssemblyReference.cache
+C:\Users\phfuj\source\repos\wfa_aluguelVeiculo\wfa_aluguelVeiculo\obj\Debug\wfa_aluguelVeiculo.csproj.SuggestedBindingRedirects.cache
+C:\Users\phfuj\source\repos\wfa_aluguelVeiculo\wfa_aluguelVeiculo\obj\Debug\wfa_aluguelVeiculo.Form1.resources
+C:\Users\phfuj\source\repos\wfa_aluguelVeiculo\wfa_aluguelVeiculo\obj\Debug\wfa_aluguelVeiculo.Properties.Resources.resources
+C:\Users\phfuj\source\repos\wfa_aluguelVeiculo\wfa_aluguelVeiculo\obj\Debug\wfa_aluguelVeiculo.csproj.GenerateResource.cache
+C:\Users\phfuj\source\repos\wfa_aluguelVeiculo\wfa_aluguelVeiculo\obj\Debug\wfa_aluguelVeiculo.csproj.CoreCompileInputs.cache
+C:\Users\phfuj\source\repos\wfa_aluguelVeiculo\wfa_aluguelVeiculo\bin\Debug\wfa_aluguelVeiculo.exe.config
+C:\Users\phfuj\source\repos\wfa_aluguelVeiculo\wfa_aluguelVeiculo\bin\Debug\wfa_aluguelVeiculo.exe
+C:\Users\phfuj\source\repos\wfa_aluguelVeiculo\wfa_aluguelVeiculo\bin\Debug\wfa_aluguelVeiculo.pdb
+C:\Users\phfuj\source\repos\wfa_aluguelVeiculo\wfa_aluguelVeiculo\obj\Debug\wfa_aluguelVeiculo.exe
+C:\Users\phfuj\source\repos\wfa_aluguelVeiculo\wfa_aluguelVeiculo\obj\Debug\wfa_aluguelVeiculo.pdb

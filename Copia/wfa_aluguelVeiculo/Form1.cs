@@ -7,7 +7,6 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using static System.Windows.Forms.VisualStyles.VisualStyleElement;
 
 namespace wfa_aluguelVeiculo
 {
@@ -42,7 +41,7 @@ namespace wfa_aluguelVeiculo
         {
             //verifica se txb_Placa, txb_AnoVeiculo, txb_QntAssento estão preenchidos então faz mensagem de alerta para prencher o item
             //se botão rb_Onibus estiver selecionado
-            if (txb_AnoVeiculo == null || txb_Placa == null || txb_QntAssento == null)
+            if (txb_AnoVeiculo == null || txb_Placa == null || txb_QntAssento == null) 
             {
                 MessageBox.Show("Você deve prencher todos os campos!");
             }
@@ -105,11 +104,6 @@ namespace wfa_aluguelVeiculo
             txb_AnoVeiculo.Clear();
             txb_Placa.Clear();
             txb_QntAssento.Clear();
-
-        }
-
-        private void button1_Click(object sender, EventArgs e)
-        {
 
         }
     }

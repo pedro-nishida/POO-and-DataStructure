@@ -14,7 +14,7 @@ namespace wfa_aluguelVeiculo
 
         //encapsulamento 
         public int QtdEixos { get => qtdEixos; set => qtdEixos = value; }
-
+        
         //------------------------------CONSTRUTORES-----------------------------
         //construtor default
         public Caminhao() : base() //chama o construtor da classe mãe
@@ -37,7 +37,7 @@ namespace wfa_aluguelVeiculo
             double diaria = (300 * qtdEixos) - (anoAtual - AnoVeiculo) * 50;
             return diaria;
         }
-
+    
     }// fim da classe Caminhão
 
 

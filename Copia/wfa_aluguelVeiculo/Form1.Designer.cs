@@ -28,7 +28,6 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             this.rb_Onibus = new System.Windows.Forms.RadioButton();
             this.rb_Caminhao = new System.Windows.Forms.RadioButton();
             this.pb_Veiculo = new System.Windows.Forms.PictureBox();
@@ -36,16 +35,16 @@
             this.label_AnoVeiculo = new System.Windows.Forms.Label();
             this.label_QtdAssentos = new System.Windows.Forms.Label();
             this.listView1 = new System.Windows.Forms.ListView();
-            this.cH_Placa = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
-            this.cH_Ano = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
-            this.cH_Assentos = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
-            this.cH_Eixos = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
-            this.cH_Diaria = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
             this.button_Cadastrar = new System.Windows.Forms.Button();
             this.button_Limpar = new System.Windows.Forms.Button();
             this.txb_Placa = new System.Windows.Forms.TextBox();
             this.txb_QntAssento = new System.Windows.Forms.TextBox();
             this.txb_AnoVeiculo = new System.Windows.Forms.TextBox();
+            this.cH_Placa = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
+            this.cH_Ano = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
+            this.cH_Assentos = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
+            this.cH_Eixos = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
+            this.cH_Diaria = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
             ((System.ComponentModel.ISupportInitialize)(this.pb_Veiculo)).BeginInit();
             this.SuspendLayout();
             // 
@@ -75,7 +74,6 @@
             // 
             // pb_Veiculo
             // 
-            this.pb_Veiculo.Image = ((System.Drawing.Image)(resources.GetObject("pb_Veiculo.Image")));
             this.pb_Veiculo.Location = new System.Drawing.Point(341, 37);
             this.pb_Veiculo.Name = "pb_Veiculo";
             this.pb_Veiculo.Size = new System.Drawing.Size(137, 129);
@@ -125,26 +123,6 @@
             this.listView1.TabIndex = 6;
             this.listView1.UseCompatibleStateImageBehavior = false;
             // 
-            // cH_Placa
-            // 
-            this.cH_Placa.Text = "Placa";
-            // 
-            // cH_Ano
-            // 
-            this.cH_Ano.Text = "Ano";
-            // 
-            // cH_Assentos
-            // 
-            this.cH_Assentos.Text = "Assentos";
-            // 
-            // cH_Eixos
-            // 
-            this.cH_Eixos.Text = "Eixos";
-            // 
-            // cH_Diaria
-            // 
-            this.cH_Diaria.Text = "Diaria";
-            // 
             // button_Cadastrar
             // 
             this.button_Cadastrar.Location = new System.Drawing.Point(79, 217);
@@ -185,6 +163,26 @@
             this.txb_AnoVeiculo.Name = "txb_AnoVeiculo";
             this.txb_AnoVeiculo.Size = new System.Drawing.Size(100, 20);
             this.txb_AnoVeiculo.TabIndex = 11;
+            // 
+            // cH_Placa
+            // 
+            this.cH_Placa.Text = "Placa";
+            // 
+            // cH_Ano
+            // 
+            this.cH_Ano.Text = "Ano";
+            // 
+            // cH_Assentos
+            // 
+            this.cH_Assentos.Text = "Assentos";
+            // 
+            // cH_Eixos
+            // 
+            this.cH_Eixos.Text = "Eixos";
+            // 
+            // cH_Diaria
+            // 
+            this.cH_Diaria.Text = "Diaria";
             // 
             // Form1
             // 
