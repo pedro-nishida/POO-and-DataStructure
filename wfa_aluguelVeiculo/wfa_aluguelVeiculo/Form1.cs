@@ -1,13 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
-using static System.Windows.Forms.VisualStyles.VisualStyleElement;
 
 namespace wfa_aluguelVeiculo
 {
@@ -19,23 +12,27 @@ namespace wfa_aluguelVeiculo
         public Form1()
         {
             InitializeComponent();
-            listView1.Columns.Add("Placa", 128);
-            listView1.Columns.Add("Ano", 128);
-            listView1.Columns.Add("Assentos", 128);
-            listView1.Columns.Add("Eixos", 128);
-            listView1.Columns.Add("Diária", 128);
+            listView1.Columns.Add("Placa", 70);
+            listView1.Columns.Add("Ano", 70);
+            listView1.Columns.Add("Assentos", 70);
+            listView1.Columns.Add("Eixos", 70);
+            listView1.Columns.Add("Diária", 70);
         }
 
         private void rb_Onibus_CheckedChanged(object sender, EventArgs e)
         {
-            //troca a imagem a partir do caminho relativo de "C:\Users\phfuj\source\repos\wfa_aluguelVeiculo\wfa_aluguelVeiculo\Caminhao.png"
+            //troca a imagem a partir do caminho relativo de "C:\Users\phfuj\source\repos\wfa_aluguelVeiculo\wfa_aluguelVeiculo\Caminhao.bmp"
             pb_Veiculo.Image = Properties.Resources.Onibus;
+
+
+            label_QtdAssentos.Text = "Qnt de Assentos";
         }
 
         private void rb_Caminhao_CheckedChanged(object sender, EventArgs e)
         {
             //troca a imagem a partir do caminho relativo de "C:\Users\phfuj\source\repos\wfa_aluguelVeiculo\wfa_aluguelVeiculo\Caminhao.png"
             pb_Veiculo.Image = Properties.Resources.Caminhao;
+            label_QtdAssentos.Text = "Eixos";
         }
 
         private void button_Cadastrar_Click(object sender, EventArgs e)
@@ -90,11 +87,6 @@ namespace wfa_aluguelVeiculo
                 listView1.Items.Add(new ListViewItem(linha));
 
                 //display cada arrray da linha respectivamente em cH_placa, cH_ano, ch_assento, ch_eixo, ch_diaria
-                cH_Placa.Text = linha[0];
-                cH_Ano.Text = linha[1];
-                cH_Assentos.Text = linha[2];
-                cH_Eixos.Text = linha[3];
-                cH_Diaria.Text = linha[4];
 
             }
         }
@@ -105,11 +97,6 @@ namespace wfa_aluguelVeiculo
             txb_AnoVeiculo.Clear();
             txb_Placa.Clear();
             txb_QntAssento.Clear();
-
-        }
-
-        private void button1_Click(object sender, EventArgs e)
-        {
 
         }
     }

@@ -9,3 +9,4 @@ C:\Users\phfuj\source\repos\wfa_aluguelVeiculo\wfa_aluguelVeiculo\bin\Debug\wfa_
 C:\Users\phfuj\source\repos\wfa_aluguelVeiculo\wfa_aluguelVeiculo\bin\Debug\wfa_aluguelVeiculo.pdb
 C:\Users\phfuj\source\repos\wfa_aluguelVeiculo\wfa_aluguelVeiculo\obj\Debug\wfa_aluguelVeiculo.exe
 C:\Users\phfuj\source\repos\wfa_aluguelVeiculo\wfa_aluguelVeiculo\obj\Debug\wfa_aluguelVeiculo.pdb
+C:\Users\phfuj\source\repos\wfa_aluguelVeiculo\wfa_aluguelVeiculo\obj\Debug\wfa_aluguelVeiculo.g.resources

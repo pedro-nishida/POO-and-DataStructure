@@ -12,6 +12,7 @@ namespace wfa_aluguelVeiculo
         // herança + quantidade de eixos
         private int qtdEixos;
 
+
         //encapsulamento 
         public int QtdEixos { get => qtdEixos; set => qtdEixos = value; }
 
