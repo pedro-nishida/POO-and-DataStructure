@@ -39,4 +39,6 @@ namespace wfa_aluguelVeiculo
         }
     
     }// fim da classe Caminhão
+
+
 }
