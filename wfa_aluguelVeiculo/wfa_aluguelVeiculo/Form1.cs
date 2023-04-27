@@ -37,6 +37,7 @@ namespace wfa_aluguelVeiculo
 
         private void button_Cadastrar_Click(object sender, EventArgs e)
         {
+
             //verifica se txb_Placa, txb_AnoVeiculo, txb_QntAssento estão preenchidos então faz mensagem de alerta para prencher o item
             //se botão rb_Onibus estiver selecionado
             if (txb_AnoVeiculo == null || txb_Placa == null || txb_QntAssento == null)
@@ -61,6 +62,7 @@ namespace wfa_aluguelVeiculo
                 listaVeiculos.Add(caminhao);
             }
 
+            listView1.Items.Clear();
             //atualizar o listView com os dados do caminhãos separando cada coluna os atributos (Placa, Ano, Assento, Eixos, Diária)
             foreach (Veiculo veiculo in listaVeiculos)
             {
@@ -83,11 +85,9 @@ namespace wfa_aluguelVeiculo
                 }
 
                 linha[4] = veiculo.Aluguel().ToString();
+
                 //adiciona o array na listview
                 listView1.Items.Add(new ListViewItem(linha));
-
-                //display cada arrray da linha respectivamente em cH_placa, cH_ano, ch_assento, ch_eixo, ch_diaria
-
             }
         }
 
