@@ -1,0 +1,8 @@
+C:\Users\phfuj\source\repos\PilhaAgain.cs\PilhaAgain.cs\bin\Debug\PilhaAgain.cs.exe.config
+C:\Users\phfuj\source\repos\PilhaAgain.cs\PilhaAgain.cs\bin\Debug\PilhaAgain.cs.exe
+C:\Users\phfuj\source\repos\PilhaAgain.cs\PilhaAgain.cs\bin\Debug\PilhaAgain.cs.pdb
+C:\Users\phfuj\source\repos\PilhaAgain.cs\PilhaAgain.cs\obj\Debug\PilhaAgain.cs.csproj.AssemblyReference.cache
+C:\Users\phfuj\source\repos\PilhaAgain.cs\PilhaAgain.cs\obj\Debug\PilhaAgain.cs.csproj.SuggestedBindingRedirects.cache
+C:\Users\phfuj\source\repos\PilhaAgain.cs\PilhaAgain.cs\obj\Debug\PilhaAgain.cs.csproj.CoreCompileInputs.cache
+C:\Users\phfuj\source\repos\PilhaAgain.cs\PilhaAgain.cs\obj\Debug\PilhaAgain.cs.exe
+C:\Users\phfuj\source\repos\PilhaAgain.cs\PilhaAgain.cs\obj\Debug\PilhaAgain.cs.pdb
